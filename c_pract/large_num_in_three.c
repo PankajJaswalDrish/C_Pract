@@ -11,7 +11,7 @@ void scan_number(){
     scanf("%d",&num3);    
 }
 
-void print_large_number(){
+void print_large_number(){  
     if(num1>num2){
         if(num1>num3){
             printf("First Number is Greater");
